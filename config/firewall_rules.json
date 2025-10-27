@@ -1,0 +1,3 @@
+{
+  "block_command": "iptables -A INPUT -s {IP} -j DROP"
+}

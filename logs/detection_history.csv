@@ -1,0 +1,13 @@
+timestamp,threat_type,source_ip,source_mac,details
+2025-10-27 18:55:29.461516,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: {""b'marketplace-visualstudio-com.bx-0007.bx-msedge.net.'"", nan}"
+2025-10-27 19:09:34.083428,ML Anomaly,,Detected by Isolation Forest,Anomalous pattern
+2025-10-27 19:09:34.083859,ARP Spoofing,,Blocked via firewall,"⚠ Error blocking IP None: expected str, bytes or os.PathLike object, not NoneType"
+2025-10-27 19:10:40.793064,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:10:43.860776,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:10:46.229914,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:10:48.272932,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:10:51.829421,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:10:54.344148,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:10:58.196192,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:11:00.263161,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
+2025-10-27 19:11:02.854640,DNS Spoofing,Unknown,Switched to 1.1.1.1,"IPs detected: [None, '2401:4900:640c:2261:6db1:141c:517b:e9b7', b'Shakeeb-Laptop._dosvc._tcp.local.']"
