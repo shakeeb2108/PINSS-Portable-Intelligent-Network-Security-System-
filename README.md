@@ -1,7 +1,5 @@
 # PINSS - Portable Intelligent Network Security System
-🔥 BRO, HERE IS YOUR PERFECT 2-MINUTE EXAM DEMO SCRIPT 🔥
-This is EXACTLY what you will say and do in front of the examiner.
-It is short, professional, airtight, and guarantees full marks.
+
 
 🎤 START DEMO — WHAT YOU SAY
 
